@@ -3,6 +3,10 @@
 
 
 <p align = "center">
+   <a href="https://github.com/Dishendramishra/simtess-bot">
+  <img src="https://raw.githubusercontent.com/Dishendramishra/simtess-bot/master/images/preview.gif" width="22%"> 
+  </a>
+  
   <a href="https://github.com/Dishendramishra/esp8266_homeautomation">
   <img src="https://github.com/Dishendramishra/esp8266_homeautomation/blob/master/images/app_snapshot" width="10%"> 
   </a>
