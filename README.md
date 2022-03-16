@@ -1,4 +1,4 @@
-### Things you might find interesting ! 😄
+### Things you may find interesting ! 😄
 
 
 
